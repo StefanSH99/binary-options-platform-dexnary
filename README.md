@@ -35,7 +35,7 @@ DEXNARY keeps the important things in one place: the chart, the amount, the expi
 
 - **Binary options trading** with BUY and SELL positions.
 - **Multiple crypto markets** in one terminal.
-- **Expirations from 5 seconds to 1 day.**
+- **Expirations from 3 seconds to 1 day.**
 - **Demo, Real and Funded accounts** in one interface.
 - **Market-based pricing** for Real trades.
 - **Funded challenges** with clear account sizes and rules.
@@ -43,6 +43,7 @@ DEXNARY keeps the important things in one place: the chart, the amount, the expi
 - **Built-in support** and a full trading history.
 - **Desktop and mobile layouts** that stay consistent.
 - **Private by default** — your account details stay inside your account.
+- **No KYC, no email** — Your privacy is our priority.
 
 ---
 
